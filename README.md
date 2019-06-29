@@ -10,7 +10,7 @@ Corresponding code for the following paper will be uploaded to this repository s
                {ECML} {PKDD} 2019, Wurzburg, Germany, September 16-20, 2019, Proceedings},  
  series = {ECML-PKDD '19},  
  year = {2019},  
- location = {SWurzburg, Germany},  
+ location = {Wurzburg, Germany},  
  publisher = {Springer}
 }   
 ```
